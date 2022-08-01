@@ -1,0 +1,14 @@
+{
+  "name": "image-shrink",
+  "version": "1.0.0",
+  "description": "This app to image resizeing",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Dalawer Hossain Juwel",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^20.0.0"
+  }
+}
